@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Csharp核心实践/1.0.0": {
+        "runtime": {
+          "Csharp核心实践.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp核心实践/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

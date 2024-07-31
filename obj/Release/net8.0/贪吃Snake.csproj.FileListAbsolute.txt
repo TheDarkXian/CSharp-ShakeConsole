@@ -1,0 +1,14 @@
+C:\Users\THEDARK\source\repos\Csharp核心实践\bin\Release\net8.0\贪吃Snake.exe
+C:\Users\THEDARK\source\repos\Csharp核心实践\bin\Release\net8.0\贪吃Snake.deps.json
+C:\Users\THEDARK\source\repos\Csharp核心实践\bin\Release\net8.0\贪吃Snake.runtimeconfig.json
+C:\Users\THEDARK\source\repos\Csharp核心实践\bin\Release\net8.0\贪吃Snake.dll
+C:\Users\THEDARK\source\repos\Csharp核心实践\bin\Release\net8.0\贪吃Snake.pdb
+C:\Users\THEDARK\source\repos\Csharp核心实践\obj\Release\net8.0\贪吃Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THEDARK\source\repos\Csharp核心实践\obj\Release\net8.0\贪吃Snake.AssemblyInfoInputs.cache
+C:\Users\THEDARK\source\repos\Csharp核心实践\obj\Release\net8.0\贪吃Snake.AssemblyInfo.cs
+C:\Users\THEDARK\source\repos\Csharp核心实践\obj\Release\net8.0\贪吃Snake.csproj.CoreCompileInputs.cache
+C:\Users\THEDARK\source\repos\Csharp核心实践\obj\Release\net8.0\贪吃Snake.dll
+C:\Users\THEDARK\source\repos\Csharp核心实践\obj\Release\net8.0\refint\贪吃Snake.dll
+C:\Users\THEDARK\source\repos\Csharp核心实践\obj\Release\net8.0\贪吃Snake.pdb
+C:\Users\THEDARK\source\repos\Csharp核心实践\obj\Release\net8.0\贪吃Snake.genruntimeconfig.cache
+C:\Users\THEDARK\source\repos\Csharp核心实践\obj\Release\net8.0\ref\贪吃Snake.dll

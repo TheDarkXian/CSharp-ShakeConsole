@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\gameframe\\gameplayscence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:gameframe\\gameplayscence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\math2d\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:math2d\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\game\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:game\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\gameframe\\frametoolkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:gameframe\\frametoolkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\math2d\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:math2d\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\gameframe\\gamestartscence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:gameframe\\gamestartscence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\game\\scorepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:game\\scorepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\game\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:game\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\gameframe\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:gameframe\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\gameframe\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:gameframe\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\math2d\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:math2d\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\gameframe\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:gameframe\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|c:\\users\\thedark\\source\\repos\\csharp\u6838\u5FC3\u5B9E\u8DF5\\gameframe\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99F52C-4783-4ABE-9F80-01799298E7BA}|Csharp\u6838\u5FC3\u5B9E\u8DF5.csproj|solutionrelative:gameframe\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Game\\Snake.cs",
+              "RelativeDocumentMoniker": "Game\\Snake.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Game\\Snake.cs",
+              "RelativeToolTip": "Game\\Snake.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwGUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:00:25.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScorePoint.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Game\\ScorePoint.cs",
+              "RelativeDocumentMoniker": "Game\\ScorePoint.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Game\\ScorePoint.cs",
+              "RelativeToolTip": "Game\\ScorePoint.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:19:48.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Game\\Wall.cs",
+              "RelativeDocumentMoniker": "Game\\Wall.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Game\\Wall.cs",
+              "RelativeToolTip": "Game\\Wall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:21:48.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamePlayScence.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\GamePlayScence.cs",
+              "RelativeDocumentMoniker": "GameFrame\\GamePlayScence.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\GamePlayScence.cs",
+              "RelativeToolTip": "GameFrame\\GamePlayScence.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAqwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:20:55.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Math2D\\List.cs",
+              "RelativeDocumentMoniker": "Math2D\\List.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Math2D\\List.cs",
+              "RelativeToolTip": "Math2D\\List.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:37:27.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrameToolkit.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\FrameToolkit.cs",
+              "RelativeDocumentMoniker": "GameFrame\\FrameToolkit.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\FrameToolkit.cs",
+              "RelativeToolTip": "GameFrame\\FrameToolkit.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:05:24.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Text.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\Text.cs",
+              "RelativeDocumentMoniker": "GameFrame\\Text.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\Text.cs",
+              "RelativeToolTip": "GameFrame\\Text.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwCAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:54:18.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameStartScence.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\GameStartScence.cs",
+              "RelativeDocumentMoniker": "GameFrame\\GameStartScence.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\GameStartScence.cs",
+              "RelativeToolTip": "GameFrame\\GameStartScence.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:48:26.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\Sprite.cs",
+              "RelativeDocumentMoniker": "GameFrame\\Sprite.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\Sprite.cs",
+              "RelativeToolTip": "GameFrame\\Sprite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:40:26.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rect.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Math2D\\Rect.cs",
+              "RelativeDocumentMoniker": "Math2D\\Rect.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Math2D\\Rect.cs",
+              "RelativeToolTip": "Math2D\\Rect.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:37:16.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Math2D\\Vector2.cs",
+              "RelativeDocumentMoniker": "Math2D\\Vector2.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Math2D\\Vector2.cs",
+              "RelativeToolTip": "Math2D\\Vector2.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:35:47.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameFrame\\GameObject.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\GameObject.cs",
+              "RelativeToolTip": "GameFrame\\GameObject.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAEBawAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:00:29.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\GameScene.cs",
+              "RelativeDocumentMoniker": "GameFrame\\GameScene.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\GameFrame\\GameScene.cs",
+              "RelativeToolTip": "GameFrame\\GameScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:59:19.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\THEDARK\\source\\repos\\Csharp\u6838\u5FC3\u5B9E\u8DF5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:20:27.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
